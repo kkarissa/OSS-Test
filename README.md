@@ -7,7 +7,7 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1721074901283.svg?)
+  ![User Draft Stats](/userCards/draft-1721074904688.svg?)
 
 ⚙️ Current Quest: 
   - Q2 - Introducing yourself to the community
