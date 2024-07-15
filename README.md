@@ -7,16 +7,16 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1721074540646.svg?)
+  ![User Draft Stats](/userCards/draft-1721074718736.svg?)
 
 ⚙️ Current Quest: 
   - Q1 - Exploring the GitHub World
     -  ~T1 - Explore the issue tracker~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/3)]
     -  ~T2 - Explore the pull-request menu~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/4)]
     -  ~T3 - Explore the fork button~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/5)]
-    - T4 - Explore the readme file [[Click here to start](https://github.com/kkarissa/OSS-Test/issues/6)]
-    - T5 - Explore the contributors
+    -  ~T4 - Explore the readme file~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/6)]
+    - T5 - Explore the contributors [[Click here to start](https://github.com/kkarissa/OSS-Test/issues/7)]
 
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T4.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T5.png)
