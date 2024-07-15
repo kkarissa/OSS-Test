@@ -7,16 +7,22 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1721074718736.svg?)
+  ![User Draft Stats](/userCards/draft-1721074901283.svg?)
 
 ⚙️ Current Quest: 
-  - Q1 - Exploring the GitHub World
-    -  ~T1 - Explore the issue tracker~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/3)]
-    -  ~T2 - Explore the pull-request menu~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/4)]
-    -  ~T3 - Explore the fork button~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/5)]
-    -  ~T4 - Explore the readme file~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/6)]
-    - T5 - Explore the contributors [[Click here to start](https://github.com/kkarissa/OSS-Test/issues/7)]
+  - Q2 - Introducing yourself to the community
+    - T1 - Choose an issue that you would like to work with [[Click here to start](https://github.com/kkarissa/OSS-Test/issues/8)]
+    - T2 - Assign your user to work on the issue
+    - T3 - Post a comment in the issue introducing yourself
+    - T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue
 
+✅ Completed Quests: 
+  - Q1 - Exploring the GitHub World
+    - ~T1 - Explore the issue tracker~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/3)]
+    - ~T2 - Explore the pull-request menu~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/4)]
+    - ~T3 - Explore the fork button~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/5)]
+    - ~T4 - Explore the readme file~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/6)]
+    - ~T5 - Explore the contributors~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/7)]
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T5.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q2.png)
