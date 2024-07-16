@@ -7,7 +7,7 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1721115711432.svg?)
+  ![User Draft Stats](/userCards/draft-1721115715211.svg?)
 
 ⚙️ Current Quest: 
   - Q3 - Making your first contribution
