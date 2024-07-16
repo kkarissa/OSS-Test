@@ -7,13 +7,7 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1721116764051.svg?)
-
-⚙️ Current Quest: 
-  - Q3 - Making your first contribution
-    -  ~T1 - Solve the issue (upload a file/make commit)~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/12)]
-    -  ~T2 - Post in issue asking for a review~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/13)]
-    - T3 - Close the issue [[Click here to start](https://github.com/kkarissa/OSS-Test/issues/14)]
+  ![User Draft Stats](/userCards/draft-1721116848701.svg?)
 
 ✅ Completed Quests: 
   - Q1 - Exploring the GitHub World
@@ -27,6 +21,10 @@ User Stats:<br>
     - ~T2 - Assign your user to work on the issue~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/9)]
     - ~T3 - Post a comment in the issue introducing yourself~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/10)]
     - ~T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/11)]
+  - Q3 - Making your first contribution
+    - ~T1 - Solve the issue (upload a file/make commit)~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/12)]
+    - ~T2 - Post in issue asking for a review~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/13)]
+    - ~T3 - Close the issue~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/14)]
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q3T3.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/F.png)
