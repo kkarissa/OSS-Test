@@ -8,12 +8,12 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1728941855013.svg?)
+  ![User Draft Stats](/userCards/draft-1728943178740.svg?)
 
 ⚙️ Current Quest: 
   - Q3 - Making your first contribution
-    - T1 - Solve the issue (upload a file/make commit) [[Click here to start](https://github.com/kkarissa/OSS-Test/issues/30)]
-    - T2 - Post in issue asking for a review
+    -  ~T1 - Solve the issue (upload a file/make commit)~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/30)]
+    - T2 - Post in issue asking for a review [[Click here to start](https://github.com/kkarissa/OSS-Test/issues/31)]
     - T3 - Close the issue
 
 ✅ Completed Quests: 
@@ -30,4 +30,4 @@ User Stats:<br>
     - ~T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue~ [[COMPLETED](https://github.com/kkarissa/OSS-Test/issues/29)]
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q3T1.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q3T2.png)
